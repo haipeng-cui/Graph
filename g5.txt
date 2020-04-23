@@ -1,0 +1,12 @@
+9
+1  2
+2  3
+2  4
+4  5
+6  7
+7  8
+8  6
+NOT connected, at least a cycle and 3 components
+0 
+1 2 4 5 3 
+6 8 7 

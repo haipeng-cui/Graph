@@ -1,0 +1,46 @@
+input
+g1.txt
+connected
+document 
+         there is one cycle
+find
+list
+twin
+connected
+list
+document
+         exit the 'twin mode'
+quit
+input
+g0.txt
+connected
+document
+         expecting NOT connected and two components and at least a cycle
+find
+list
+input
+g2.txt
+connected
+find
+list
+input 
+g5.txt
+find
+connected
+list
+twin
+list
+quit
+input
+g33.txt
+document
+         g33.txt is a file of singletons
+connected
+find
+list
+twin
+connected
+quit
+document
+         exit the program
+quit 

@@ -1,0 +1,151 @@
+
+command: input
+enter the file name that has the graph: g1.txt
+
+command: connected
+the graph is NOT connected
+
+command: document
+         there is one cycle
+
+command: find
+the graph has at least one cycle
+
+command: list
+linked compoint:1 2 4 3 0 
+linked compoint:5
+linked compoint:6
+
+command: twin
+
+for twin graph 
+command: connected
+the graph is NOT connected
+
+for twin graph 
+command: list
+linked compoint:1 0 2 3 4 
+linked compoint:5
+linked compoint:6
+
+for twin graph 
+command: document
+         exit the 'twin mode'
+
+for twin graph 
+command: quit
+
+command: input
+enter the file name that has the graph: g0.txt
+
+command: connected
+the graph is connected
+
+command: document
+         expecting NOT connected and two components and at least a cycle
+
+command: find
+no cycles
+
+command: list
+linked compoint:1 2 5 4 3 0 
+
+command: input
+enter the file name that has the graph: g2.txt
+
+command: connected
+the graph is NOT connected
+
+command: find
+no cycles
+
+command: list
+linked compoint:1 0 
+linked compoint:2
+linked compoint:4 3 
+
+command: input
+enter the file name that has the graph: g5.txt
+
+command: find
+the graph has at least one cycle
+
+command: connected
+the graph is NOT connected
+
+command: list
+linked compoint:0
+linked compoint:2 4 5 3 1 
+linked compoint:8 6 7 
+
+command: twin
+
+for twin graph 
+command: list
+linked compoint:0
+linked compoint:2 1 3 4 5 
+linked compoint:7 6 8 
+
+for twin graph 
+command: quit
+
+command: input
+enter the file name that has the graph: g33.txt
+
+command: document
+         g33.txt is a file of singletons
+
+command: connected
+the graph is NOT connected
+
+command: find
+no cycles
+
+command: list
+linked compoint:0
+linked compoint:1
+linked compoint:2
+linked compoint:3
+linked compoint:4
+linked compoint:5
+linked compoint:6
+linked compoint:7
+linked compoint:8
+linked compoint:9
+linked compoint:10
+linked compoint:11
+linked compoint:12
+linked compoint:13
+linked compoint:14
+linked compoint:15
+linked compoint:16
+linked compoint:17
+linked compoint:18
+linked compoint:19
+linked compoint:20
+linked compoint:21
+linked compoint:22
+linked compoint:23
+linked compoint:24
+linked compoint:25
+linked compoint:26
+linked compoint:27
+linked compoint:28
+linked compoint:29
+linked compoint:30
+linked compoint:31
+linked compoint:32
+
+command: twin
+
+for twin graph 
+command: connected
+the graph is NOT connected
+
+for twin graph 
+command: quit
+
+command: document
+         exit the program
+
+command: quit
